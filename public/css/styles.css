@@ -1,0 +1,114 @@
+.btn-h1-spacing
+{
+  margin-top:10px; 
+}
+
+.text-center{
+  text-align: center;
+  display: inline-block;
+  align-self:center;
+  font-style: bold;
+  
+}
+li.nav-item.account {
+  margin-left: 770px;
+  
+}
+.mrg-top{
+  margin-top: 20px;
+}
+
+#box{
+  padding:6px;
+  width:720px;
+  background-color: #F7E4F5;
+  
+}
+.footer-copyright{
+  background-color: #f5f8fa;
+  width:100%;
+}
+.comment{
+margin-bottom:35px;
+}
+.author-image{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  float:left;
+}
+.author-name
+{
+  float:left;
+  margin-left: 15px;
+  
+  }
+.author-name> h4
+{
+    margin: 5px 0px;
+  
+  }
+.comment-content{
+  clear: both;
+  margin-left:65px;
+  font-size: 16px;
+  line-height: 1.3em;
+}
+.author-time{
+  font-size: 11px;
+  color:lightpink;
+  font-style:italic;
+}
+.comment-title{
+  font-style: bold;
+  margin-bottom: 45px;
+}
+.comment-title span{
+  margin-right: 15px;
+}
+.img-size{
+  width:400px;
+  height: 400px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  
+}
+.img-sm{
+  width:120px;
+  height:120px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+}
+.jumbotron{
+  background:transparent;
+  }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+   color:gray;
+  text-align: center;
+
+}
+
+.bg {
+  background: url('app/cover.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 350px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
+.center{
+  align-content: center;
+}
+.list{
+  text-align:center;
+  margin-left: 20px;
+  text-decoration: none;
+    display: inline-block;
+}
